@@ -3,7 +3,7 @@ Assignment 03: SOAP Web Services
 
 Name: Getachew Demissie Abebe
 
-I have done both server and client by by myself
+I have done both server and client by myself
 
 The server is deployed on heroku and its url is => https://young-lowlands-83639.herokuapp.com/soap/people?wsdl
 
