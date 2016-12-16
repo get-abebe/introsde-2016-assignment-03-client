@@ -28,7 +28,7 @@ Method #9: savePersonMeasure(Long id, Measure m) =>It save a new measure object 
 
 Method #10: updatePersonMeasure(Long id, Measure m) => It update the measure identified with weight and mid = 1, related to the Person identified by id = 201
 
-                            ** Check WSDL 
+                             Check WSDL 
    ```bash
 ==> The server is deployed on heroku and its url is ====> https://young-lowlands-83639.herokuapp.com/soap/people?wsdl
 
