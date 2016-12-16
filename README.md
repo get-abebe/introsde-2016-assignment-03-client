@@ -1,13 +1,13 @@
 # introsde-2016-assignment-03-client
-Assignment 03: SOAP Web Services
+** Assignment 03: SOAP Web Services
 
-Name: Getachew Demissie Abebe
+** Name: Getachew Demissie Abebe
 
 I have done both server and client by myself
 
 The server is deployed on heroku and its url is => https://young-lowlands-83639.herokuapp.com/soap/people?wsdl
 
-                     *** Implemented Services using JAX-WS ***
+                      ** Implemented Services using JAX-WS 
 Method #1: readPersonList() => This method list all the people in the my database.
 
 Method #2: readPerson(Long id) => Displays all the Personal information plus current health profile of person with id = 52.
@@ -28,7 +28,7 @@ Method #9: savePersonMeasure(Long id, Measure m) =>It save a new measure object 
 
 Method #10: updatePersonMeasure(Long id, Measure m) => It update the measure identified with weight and mid = 1, related to the Person identified by id = 201
 
-                            *** Check WSDL ***
+                            ** Check WSDL 
 ==> The server is deployed on heroku and its url is ====> https://young-lowlands-83639.herokuapp.com/soap/people?wsdl
 
 ==> You can check by opening it on the web browser.
